@@ -15,3 +15,10 @@ El procesamiento consistió en:
 
 El código utilizado en la [descarga](retrieve.ipynb) y [procesamiento](limpieza.ipynb) de estos datos es parte de este repositorio y puede ser consultado.
 
+Para reproducir o actualizar estos resultados puedes correr `update.py` de la siguiente forma
+
+```sh
+./update.py --cookie TU-COOKIE
+```
+
+donde `TU-COOKIE` es la cookie `PHPSSID` que te da [el portal](https://www.pilcomayo.net/calidaddeaguas) cuando ingresas con un usuario que tiene autorización para ver estos datos.
