@@ -19,7 +19,7 @@ def get_cookie() -> str:
     Parses the PHPSESSID cookie from the --cookie command flag
     """
     
-    parser = argparse.ArgumentParser(prog="miniminiflux")
+    parser = argparse.ArgumentParser(prog="pilcomayo")
     parser.add_argument(
         "--cookie",
         dest="cookie",

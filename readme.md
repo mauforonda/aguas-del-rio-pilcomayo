@@ -1,4 +1,4 @@
-> Mediciones de la calidad de agua en el río Pilcomayo entre abril de 2007 y agosto de 2022
+> Mediciones de la calidad de agua en el río Pilcomayo entre abril de 2007 y agosto de 2023
 
 Fuente: [portal de la Comisión Trinacional para el Desarrollo de la Cuenca del Río Pilcomayo](https://www.pilcomayo.net/calidaddeaguas)
 
